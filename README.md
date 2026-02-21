@@ -1,0 +1,1 @@
+This is a  user friendly (Bill splitter system) that makes dividing expenses simple for everyone. Users input the total bill of the purchased item or items and the number of people sharing them, and the system calculates each person's share.   
